@@ -1,6 +1,5 @@
-import logo from "./logo.svg";
 import "./App.css";
-import React, { useState, useMemo } from 'react';
+import  { useState } from 'react';
 import winkNLP from 'wink-nlp';
 import model from 'wink-eng-lite-web-model';
 
